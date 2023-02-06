@@ -1,0 +1,15 @@
+D:\LearningProjects\AdministratorOfCafe\bin\Debug\net6.0\AdministratorOfCafe.exe
+D:\LearningProjects\AdministratorOfCafe\bin\Debug\net6.0\AdministratorOfCafe.deps.json
+D:\LearningProjects\AdministratorOfCafe\bin\Debug\net6.0\AdministratorOfCafe.runtimeconfig.json
+D:\LearningProjects\AdministratorOfCafe\bin\Debug\net6.0\AdministratorOfCafe.dll
+D:\LearningProjects\AdministratorOfCafe\bin\Debug\net6.0\AdministratorOfCafe.pdb
+D:\LearningProjects\AdministratorOfCafe\obj\Debug\net6.0\AdministratorOfCafe.csproj.AssemblyReference.cache
+D:\LearningProjects\AdministratorOfCafe\obj\Debug\net6.0\AdministratorOfCafe.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningProjects\AdministratorOfCafe\obj\Debug\net6.0\AdministratorOfCafe.AssemblyInfoInputs.cache
+D:\LearningProjects\AdministratorOfCafe\obj\Debug\net6.0\AdministratorOfCafe.AssemblyInfo.cs
+D:\LearningProjects\AdministratorOfCafe\obj\Debug\net6.0\AdministratorOfCafe.csproj.CoreCompileInputs.cache
+D:\LearningProjects\AdministratorOfCafe\obj\Debug\net6.0\AdministratorOfCafe.dll
+D:\LearningProjects\AdministratorOfCafe\obj\Debug\net6.0\refint\AdministratorOfCafe.dll
+D:\LearningProjects\AdministratorOfCafe\obj\Debug\net6.0\AdministratorOfCafe.pdb
+D:\LearningProjects\AdministratorOfCafe\obj\Debug\net6.0\AdministratorOfCafe.genruntimeconfig.cache
+D:\LearningProjects\AdministratorOfCafe\obj\Debug\net6.0\ref\AdministratorOfCafe.dll

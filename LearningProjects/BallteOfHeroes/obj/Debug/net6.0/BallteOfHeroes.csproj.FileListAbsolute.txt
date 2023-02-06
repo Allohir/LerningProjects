@@ -1,0 +1,15 @@
+D:\LearningProjects\BallteOfHeroes\obj\Debug\net6.0\BallteOfHeroes.csproj.AssemblyReference.cache
+D:\LearningProjects\BallteOfHeroes\obj\Debug\net6.0\BallteOfHeroes.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningProjects\BallteOfHeroes\obj\Debug\net6.0\BallteOfHeroes.AssemblyInfoInputs.cache
+D:\LearningProjects\BallteOfHeroes\obj\Debug\net6.0\BallteOfHeroes.AssemblyInfo.cs
+D:\LearningProjects\BallteOfHeroes\obj\Debug\net6.0\BallteOfHeroes.csproj.CoreCompileInputs.cache
+D:\LearningProjects\BallteOfHeroes\bin\Debug\net6.0\BallteOfHeroes.exe
+D:\LearningProjects\BallteOfHeroes\bin\Debug\net6.0\BallteOfHeroes.deps.json
+D:\LearningProjects\BallteOfHeroes\bin\Debug\net6.0\BallteOfHeroes.runtimeconfig.json
+D:\LearningProjects\BallteOfHeroes\bin\Debug\net6.0\BallteOfHeroes.dll
+D:\LearningProjects\BallteOfHeroes\bin\Debug\net6.0\BallteOfHeroes.pdb
+D:\LearningProjects\BallteOfHeroes\obj\Debug\net6.0\BallteOfHeroes.dll
+D:\LearningProjects\BallteOfHeroes\obj\Debug\net6.0\refint\BallteOfHeroes.dll
+D:\LearningProjects\BallteOfHeroes\obj\Debug\net6.0\BallteOfHeroes.pdb
+D:\LearningProjects\BallteOfHeroes\obj\Debug\net6.0\BallteOfHeroes.genruntimeconfig.cache
+D:\LearningProjects\BallteOfHeroes\obj\Debug\net6.0\ref\BallteOfHeroes.dll
